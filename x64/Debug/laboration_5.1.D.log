@@ -1,0 +1,5 @@
+﻿  laboration_5.1.D.cpp
+D:\Student\OOP\laboration_5.1.D\Vector3D.h(10,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Student\OOP\laboration_5.1.D\Vector3D.h(10,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Student\OOP\laboration_5.1.D\Vector3D.h(10,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  laboration_5.1.D.vcxproj -> D:\Student\OOP\laboration_5.1.D\x64\Debug\laboration_5.1.D.exe
